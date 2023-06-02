@@ -265,6 +265,7 @@ each word in the text
   - ![](Images/34.png) 
 - To solve for R we use gradient descent for the following loss:
   - ![](Images/35.png)
+  - How to get the gradient of squared frobenius norm: https://math.stackexchange.com/questions/2128462/gradient-of-squared-frobenius-norm-of-a-matrix
 ### K-nearest neighbors
 - To translate from X to Y using the R matrix, you may find that XR doesn't correspond to any specific vector in Y.
 - KNN can search for the K nearest neighbors from the computed vector XR
